@@ -1,0 +1,16 @@
+.idea/
+.settings/
+.project
+
+*.iml
+*.iws
+*.ipr
+/out/
+
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+.DS_Store
